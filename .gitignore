@@ -33,6 +33,7 @@
 /.idea
 /tst/out.txt
 *.dot
+/cmake-build-debug
 
 # Language Server
 **/compile_commands.json
